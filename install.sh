@@ -39,4 +39,4 @@ wget 'https://raw.githubusercontent.com/crawl3r/redirectplz/main/payloads.txt'
 wget 'https://github.com/UltimateHackers/XSStrike/archive/master.zip'
 tar xzf master.zip 
 wget 'https://raw.githubusercontent.com/SnowGlobeio/Bugbounty/main/rapide.txt' -O ~/XSStrike-master/rapide.txt
-
+python3 XSStrike-master/xsstrike.py
